@@ -1,1 +1,1 @@
-Mingle chat aplication
+Mingle chat application
